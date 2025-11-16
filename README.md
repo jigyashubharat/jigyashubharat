@@ -1,16 +1,22 @@
-## Hi there 👋
+I'm Jigyashu, a frontend developer based in India.
 
-<!--
-**jigyashubharat/jigyashubharat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I love building smooth, clean, and user-focused UIs especially websites and fun little animations.
 
-Here are some ideas to get you started:
+If an idea hits me, there’s a good chance I’ll try to build it and see how far I can push it.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My main tech stack is HTML, CSS, JavaScript, and React, and I’m currently exploring animations as a beginner with GSAP.
+My favorite tools are VS Code and Figma.
+
+One of my favorite projects so far is my Crypto Dashboard, where I’ve been learning how to build production-style UI with charts and APIs.
+
+I’ve built 10+ projects, and I’m learning by building more every week.
+
+Fun Facts:
+
+I enjoy gaming in my free time
+
+I like creating random videos for fun
+
+I’m always experimenting with new UI ideas
+
+Big fan of clean design + smooth interactions
