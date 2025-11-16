@@ -14,9 +14,6 @@ I’ve built 10+ projects, and I’m learning by building more every week.
 Fun Facts:
 
 I enjoy gaming in my free time
-
 I like creating random videos for fun
-
 I’m always experimenting with new UI ideas
-
 Big fan of clean design + smooth interactions
