@@ -9,7 +9,7 @@ My favorite tools are VS Code and Figma.
 
 One of my favorite projects so far is my Crypto Dashboard, where I’ve been learning how to build production-style UI with charts and APIs.
 
-I’ve built 10+ projects, and I’m learning by building more every week.
+I’m learning by building more every week.
 
 Fun Facts:
 
