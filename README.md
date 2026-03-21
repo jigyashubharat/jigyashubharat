@@ -7,7 +7,6 @@ If an idea hits me, there’s a good chance I’ll try to build it and see how f
 My main tech stack is JavaScript, and React, and I’m currently exploring animations as a beginner with GSAP.
 My favorite tools are VS Code and Figma.
 
-One of my favorite projects so far is my Crypto Dashboard, where I’ve been learning how to build production-style UI with charts and APIs.
 
 I’m learning by building more every week.
 
