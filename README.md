@@ -1,4 +1,4 @@
-I'm Jigyashu, a frontend developer based in India.
+I'm Jigyashu, a frontend developer/Game tester based in India.
 
 I love building smooth, clean, and user-focused UIs especially websites and fun little animations.
 
